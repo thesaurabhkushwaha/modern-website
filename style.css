@@ -12,6 +12,7 @@ body{
 #logo{
     color: white;
     font-family: 'Abril Fatface', sans-serif;
+    overflow-x: hidden;
 
 }
 
@@ -72,6 +73,7 @@ body{
     position: relative;
     flex: 1;
     flex-basis: 25rem;
+    overflow: hidden;
 }
 
 .hero-img img{
@@ -162,4 +164,8 @@ body{
     border: 2px solid white;
     border-radius: 50%;
     position: absolute;
+}
+
+.active{
+    color:blue;
 }
