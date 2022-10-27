@@ -7,6 +7,7 @@
 body{
     background: #17181a;
     font-family: 'Montserrat', sans-serif;
+    overflow-x: hidden;
 }
 
 #logo{
@@ -60,7 +61,7 @@ body{
 
 .hero-desc h2{
     font-family: 'Abril Fatface';
-    font-size: 5rem;
+    font-size: 3rem;
 }
 
 .hero-desc p{
